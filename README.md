@@ -1,5 +1,5 @@
 👋 Hi~  
 👨‍🎓 Student at Nanchang University  
 🏠 Member of NCUHOME Studio  
-🐧 ex-intern at Tencent  
+🐧 Backend Intern at Tencent  
 🐳 Golang & Docker & K8s  
