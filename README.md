@@ -4,7 +4,7 @@
 - Bug making bot
 - Gopher
 - My major is energy and power engineering
-- Graduate of Nanchang University
+- Graduated from Nanchang University
 - Coding with firends in NCUHOME during my college life
 - Now working for ByteDance 💃
 --- 
