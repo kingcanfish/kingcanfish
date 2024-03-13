@@ -1,1 +1,17 @@
-堆屎山的
+####  Hi～ This is Kingcanfish （aka. Qingmu）
+---
+- Mistake maker
+- Bug making bot
+- Gopher
+- My major is energy and power engineering
+- Graduate of Nanchang University
+- Coding with firends in NCUHOME during my college life
+- Now working for ByteDance 💃
+--- 
+- 麻烦制造者
+- Bug 自动机
+- 臭写 Go 的
+- 能源与动力工程专业比较会写代码的
+- 南大！(误） 南昌大学挂科风云榜人物
+- NCUHOME 导表专员
+- 字节跳动零食工 💃
