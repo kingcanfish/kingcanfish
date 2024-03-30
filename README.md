@@ -6,7 +6,7 @@
 - My major is energy and power engineering
 - Graduated from [Nanchang University](https://www.ncu.edu.cn/)
 - Coding with firends in [NCUHOME](https://team.ncuos.com/) during my college life
-- Now working for ByteDance 💃
+- Previously worked at ByteDance💃 And Tencent🐧 (intern)
 --- 
 - 麻烦制造者
 - Bug 自动机
@@ -14,4 +14,4 @@
 - 能源与动力工程专业比较会写代码的
 - 南大！(误） 南昌大学挂科风云榜人物
 - NCUHOME 导表专员
-- 字节跳动零食工 💃
+- 之前在腾讯实习过一段时间，字节跳动上了近两年班；现在失业了
